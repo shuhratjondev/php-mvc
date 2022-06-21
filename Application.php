@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace shuhratjon\mvc;
 
-use app\core\db\Database;
+use shuhratjon\mvc\db\Database;
 use Exception;
 
 class Application

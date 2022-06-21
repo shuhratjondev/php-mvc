@@ -1,13 +1,13 @@
 <?php
 /**
  * User: sh_abdurasulov
- * @package app\core
+ * @package shuhratjon\mvc
  */
 
-namespace app\core;
+namespace shuhratjon\mvc;
 
 
-use app\core\db\DbModel;
+use shuhratjon\mvc\db\DbModel;
 
 abstract class UserModel extends DbModel
 {

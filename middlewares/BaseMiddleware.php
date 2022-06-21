@@ -1,10 +1,10 @@
 <?php
 /**
  * User: sh_abdurasulov
- * @package app\core\middlewares
+ * @package shuhratjon\mvc\middlewares
  */
 
-namespace app\core\middlewares;
+namespace shuhratjon\mvc\middlewares;
 
 
 abstract class BaseMiddleware

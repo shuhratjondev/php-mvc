@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace shuhratjon\mvc;
 
 
-use app\core\middlewares\BaseMiddleware;
+use shuhratjon\mvc\middlewares\BaseMiddleware;
 
 class Controller
 {

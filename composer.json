@@ -6,5 +6,10 @@
       "email": "abdurasulovshuhratjon1998@gmail.com"
     }
   ],
-  "require": {}
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "shuhratjon\\mvc\\": "./"
+    }
+  }
 }

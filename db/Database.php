@@ -1,12 +1,12 @@
 <?php
 /**
  * User: sh_abdurasulov
- * @package app\core
+ * @package shuhratjon\mvc
  */
 
-namespace app\core\db;
+namespace shuhratjon\mvc\db;
 
-use app\core\Application;
+use shuhratjon\mvc\Application;
 use PDO;
 
 class Database

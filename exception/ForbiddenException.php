@@ -1,10 +1,10 @@
 <?php
 /**
  * User: sh_abdurasulov
- * @package app\core\exception
+ * @package shuhratjon\mvc\exception
  */
 
-namespace app\core\exception;
+namespace shuhratjon\mvc\exception;
 
 
 use Exception;

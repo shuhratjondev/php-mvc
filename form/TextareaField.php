@@ -1,10 +1,10 @@
 <?php
 /**
  * User: sh_abdurasulov
- * @package app\core\form
+ * @package shuhratjon\mvc\form
  */
 
-namespace app\core\form;
+namespace shuhratjon\mvc\form;
 
 
 class TextareaField extends BaseField

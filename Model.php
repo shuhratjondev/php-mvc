@@ -1,7 +1,7 @@
 <?php
 
 
-namespace app\core;
+namespace shuhratjon\mvc;
 
 
 abstract class Model

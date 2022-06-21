@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace shuhratjon\mvc;
 
-use app\core\exception\NotFoundException;
+use shuhratjon\mvc\exception\NotFoundException;
 
 class Router
 {

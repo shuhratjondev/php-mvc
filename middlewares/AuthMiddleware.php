@@ -1,14 +1,14 @@
 <?php
 /**
  * User: sh_abdurasulov
- * @package app\core\middlewares
+ * @package shuhratjon\mvc\middlewares
  */
 
-namespace app\core\middlewares;
+namespace shuhratjon\mvc\middlewares;
 
 
-use app\core\Application;
-use app\core\exception\ForbiddenException;
+use shuhratjon\mvc\Application;
+use shuhratjon\mvc\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

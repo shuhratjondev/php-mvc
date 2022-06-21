@@ -1,0 +1,10 @@
+{
+  "name": "php/mvc",
+  "authors": [
+    {
+      "name": "Shuhratjon Abdurasulov",
+      "email": "abdurasulovshuhratjon1998@gmail.com"
+    }
+  ],
+  "require": {}
+}
